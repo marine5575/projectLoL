@@ -1,4 +1,5 @@
 Contents
+--------
 ```{.Bash}
 datapreprocessing.py : This is a tool which helps user to look up the dataset
 projectLoL_MSE.py : This is first main part of this project using mean squared error loss function.
@@ -11,8 +12,8 @@ directory data : Edited dataset is right here!
 ```{.Bash}
 git clone https://github.com/marine5575/projectLoL.git
 
-**# make a directory named 'model' in the present directory**
+# make a directory named 'model' in the present directory
 mkdir model
 
-**AFTER DOWNLOAD, PLEASE DO NOT MOVE ANY OF THESE FILES OR DIRECTORYS TO ANOTHER DIRECTORY**
+AFTER DOWNLOAD, PLEASE DO NOT MOVE ANY OF THESE FILES OR DIRECTORYS TO ANOTHER DIRECTORY
 ```
