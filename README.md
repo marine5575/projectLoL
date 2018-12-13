@@ -15,5 +15,7 @@ git clone https://github.com/marine5575/projectLoL.git
 # make a directory named 'model' in the present directory
 mkdir model
 
+# Keras, Tensorflow, pandas, numpy, scikit-learn and matplotlib, seaborn must installed on your operation environment
+
 AFTER DOWNLOAD, PLEASE DO NOT MOVE ANY OF THESE FILES OR DIRECTORYS TO ANOTHER DIRECTORY
 ```
