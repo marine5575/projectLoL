@@ -16,7 +16,7 @@ git clone https://github.com/marine5575/projectLoL.git
 mkdir model
 
 ###
-Keras, Tensorflow, pandas, numpy, scikit-learn and matplotlib, seaborn must be installed on your operation environment
+Keras, Tensorflow, pandas, numpy, scikit-learn and matplotlib, seaborn must be installed on your execution environment
 ###
 
 AFTER DOWNLOAD, PLEASE DO NOT MOVE ANY OF THESE FILES OR DIRECTORYS TO ANOTHER DIRECTORY
