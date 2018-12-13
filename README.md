@@ -7,7 +7,7 @@ projectLoL_BCE.py : This is second main part of this project using binary crosse
 directory data : Edited dataset is right here!
 ```
 
-**Pre-condition before execute python files**
+**Pre-condition before execution of python files**
 -----------------------------------------
 ```{.Bash}
 git clone https://github.com/marine5575/projectLoL.git
