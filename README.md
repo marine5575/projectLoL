@@ -4,7 +4,7 @@ Contents
 datapreprocessing.py : This is a tool which helps user to look up the dataset
 projectLoL_MSE.py : This is first main part of this project using mean squared error loss function.
 projectLoL_BCE.py : This is second main part of this project using binary crossentropy loss function.
-directory data : Edited dataset is right here!
+dataset : Edited dataset is right here!
 ```
 
 **Pre-condition before execution of python files**
